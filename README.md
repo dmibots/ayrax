@@ -67,8 +67,8 @@ Choose your repo
 * Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
 
 ```bash
-git clone https://github.com/Abuzzpoet/Akame
-cd Akame
+git clone https://github.com/dmibots/ayrax
+cd ayrax
 npm install
 ```
 
